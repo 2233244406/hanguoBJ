@@ -3,11 +3,13 @@
 发布页：jinricp.azurewebsites.net,https://jinricp.azurewebsites.net/
 备用域名1：jinri.bot.nu,https://jinri.bot.nu/
 备用域名2：jinri.fr.to,https://jinri.fr.to/
+代理在线播放,https://5721004.xyz/player/pandalive1229.html
+M3U8在线播放器,https://5721004.xyz/player/pandalive.html
+直播瀑布流,https://5721004.xyz/player/pandatv.html
+文件广场,https://5721004.xyz/board/
 
-----JinriCP第一季----,#genre#
-,https://jinri.fr.to/
- ,https://jinri.fr.to/
-第一季，https://jinri.fr.to/
+以下----JinriCP第一季----,#genre#
+,https://5721004.xyz/bu/
 
 其他,#genre#
 韩宝贝BJ베이비Double101_1663,https://5721004.xyz/bu/%E5%85%B6%E4%BB%96/%E9%9F%A9%E5%AE%9D%E8%B4%9DBJ%EB%B2%A0%EC%9D%B4%EB%B9%84Double101_1663.m3u8
@@ -287,7 +289,8 @@ VID_20240307_160915_596,https://5721004.xyz/bu/3.04/sample/VID_20240307_160915_5
 20240219_140104-中韩双语字幕,https://5721004.xyz/bu/2.19/20240219_140104-%E4%B8%AD%E9%9F%A9%E5%8F%8C%E8%AF%AD%E5%AD%97%E5%B9%95.m3u8
 20240219_10小时超长直播BJ-VIP-中韩双语字幕,https://5721004.xyz/bu/2.19/20240219_10%E5%B0%8F%E6%97%B6%E8%B6%85%E9%95%BF%E7%9B%B4%E6%92%ADBJ-VIP-%E4%B8%AD%E9%9F%A9%E5%8F%8C%E8%AF%AD%E5%AD%97%E5%B9%95.m3u8
 
-----JinriCP第二季----,#genre#
+以下----JinriCP第二季----,#genre#
+,https://5721004.xyz/s2/
 
 小片段,#genre#
 jinricp,https://5721004.xyz/s2/jinricp.m3u8
@@ -553,7 +556,9 @@ jinricp_20240612_2310_@kbjba,https://5721004.xyz/s2/%E7%95%AA%E5%A4%96%E7%AF%87%
 jinricp_20240613_0010_@kbjba,https://5721004.xyz/s2/%E7%95%AA%E5%A4%96%E7%AF%87%E7%AC%AC05%E6%9C%9F20240612/jinricp_20240613_0010_%40kbjba.m3u8
 jinricp_20240613_0110_@kbjba,https://5721004.xyz/s2/%E7%95%AA%E5%A4%96%E7%AF%87%E7%AC%AC05%E6%9C%9F20240612/jinricp_20240613_0110_%40kbjba.m3u8
 
-----JinriCP第三季----,#genre#
+以下----JinriCP第三季----,#genre#
+网址,https://5721004.xyz/s3/
+
 小片段,#genre#
 jinricp,https://5721004.xyz/s3/jinricp.m3u8
 
@@ -866,7 +871,8 @@ jinricp,https://5721004.xyz/s3/jinricp.m3u8
 电报频道@ikan_live_jinricp_番外篇字幕版_20241113_07,https://5721004.xyz/s3/%E7%95%AA%E5%A4%96%E7%AF%87%E6%96%B0%E7%A7%80%E5%A4%A7%E6%88%98-%E7%AC%AC04%E6%9C%9F20241113/%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%40ikan_live_jinricp_%E7%95%AA%E5%A4%96%E7%AF%87%E5%AD%97%E5%B9%95%E7%89%88_20241113_07.m3u8
 电报频道@ikan_live_jinricp_番外篇字幕版_20241113_08,https://5721004.xyz/s3/%E7%95%AA%E5%A4%96%E7%AF%87%E6%96%B0%E7%A7%80%E5%A4%A7%E6%88%98-%E7%AC%AC04%E6%9C%9F20241113/%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%40ikan_live_jinricp_%E7%95%AA%E5%A4%96%E7%AF%87%E5%AD%97%E5%B9%95%E7%89%88_20241113_08.m3u8
 
-----JinriCP第四季----,#genre#
+以下----JinriCP第四季----,#genre#
+网址,https://5721004.xyz/s4/
 
 第四季第01期20241211,#genre#
 电报频道@ikan_live_jinricp_字幕版_20241211_01,https://5721004.xyz/s4/%E7%AC%AC%E5%9B%9B%E5%AD%A3%E7%AC%AC01%E6%9C%9F20241211/%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%40ikan_live_jinricp_%E5%AD%97%E5%B9%95%E7%89%88_20241211_01.m3u8
@@ -1259,7 +1265,11 @@ jinricp,https://5721004.xyz/s3/jinricp.m3u8
 电报频道@ikan_live_jinricp_字幕版_20250423_10,https://5721004.xyz/s4/%E7%95%AA%E5%A4%96%E7%AF%87%E5%B0%8F%E5%92%96%E6%88%98%E4%BA%89%E7%AC%AC08%E6%9C%9F/%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%40ikan_live_jinricp_%E5%AD%97%E5%B9%95%E7%89%88_20250423_10.m3u8
 电报频道@ikan_live_jinricp_字幕版_20250423_11,https://5721004.xyz/s4/%E7%95%AA%E5%A4%96%E7%AF%87%E5%B0%8F%E5%92%96%E6%88%98%E4%BA%89%E7%AC%AC08%E6%9C%9F/%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%40ikan_live_jinricp_%E5%AD%97%E5%B9%95%E7%89%88_20250423_11.m3u8
 
-----PandaClass第一季----,#genre#
+----JinriCP第五季----,#genre#
+2025.6.2正在更新,https://5721004.xyz/s5/
+
+以下----PandaClass第一季----,#genre#
+网址,https://5721004.xyz/pc/
 
 第01期20240910,#genre#
 电报频道@ikan_live_字幕版_PandaClass_20240910_01_1,https://5721004.xyz/pc/%E7%AC%AC01%E6%9C%9F20240910/%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%40ikan_live_%E5%AD%97%E5%B9%95%E7%89%88_PandaClass_20240910_01_1.m3u8
@@ -1474,7 +1484,8 @@ jinricp,https://5721004.xyz/s3/jinricp.m3u8
 电报频道@ikan_live_PandaClass_字幕版_20241015_12,https://5721004.xyz/pc/%E7%AC%AC15%E6%9C%9F20241015/%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%40ikan_live_PandaClass_%E5%AD%97%E5%B9%95%E7%89%88_20241015_12.m3u8
 电报频道@ikan_live_PandaClass_字幕版_20241015_13,https://5721004.xyz/pc/%E7%AC%AC15%E6%9C%9F20241015/%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%40ikan_live_PandaClass_%E5%AD%97%E5%B9%95%E7%89%88_20241015_13.m3u8
 
-----PandaClass第二季----,#genre#
+以下----PandaClass第二季----,#genre#
+网址,https://5721004.xyz/pc2/
 
 第01期20241119,#genre#
 电报频道@ikan_live_PandaClass_字幕版_20241119_01,https://5721004.xyz/pc2/%E7%AC%AC01%E6%9C%9F20241119/%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%40ikan_live_PandaClass_%E5%AD%97%E5%B9%95%E7%89%88_20241119_01.m3u8
@@ -1702,7 +1713,8 @@ jinricp,https://5721004.xyz/s3/jinricp.m3u8
 电报频道@ikan_live_PandaClass_字幕版_20241224_12,https://5721004.xyz/pc2/%E7%AC%AC16%E6%9C%9F20241224/%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%40ikan_live_PandaClass_%E5%AD%97%E5%B9%95%E7%89%88_20241224_12.m3u8
 电报频道@ikan_live_PandaClass_字幕版_20241224_13,https://5721004.xyz/pc2/%E7%AC%AC16%E6%9C%9F20241224/%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%40ikan_live_PandaClass_%E5%AD%97%E5%B9%95%E7%89%88_20241224_13.m3u8
 
-----PandaClass第三季----,#genre#
+以下----PandaClass第三季----,#genre#
+网址,https://5721004.xyz/pc3/
 
 第01期20250218,#genre#
 电报频道@ikan_live_PandaClass_字幕版_20250218_01,https://5721004.xyz/pc3/%E7%AC%AC01%E6%9C%9F20250218/%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%40ikan_live_PandaClass_%E5%AD%97%E5%B9%95%E7%89%88_20250218_01.m3u8
@@ -1929,7 +1941,8 @@ jinricp,https://5721004.xyz/s3/jinricp.m3u8
 电报频道@ikan_live_PandaClass_字幕版_20250327_12,https://5721004.xyz/pc3/%E7%AC%AC16%E6%9C%9F20250327/%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%40ikan_live_PandaClass_%E5%AD%97%E5%B9%95%E7%89%88_20250327_12.m3u8
 电报频道@ikan_live_PandaClass_字幕版_20250327_13,https://5721004.xyz/pc3/%E7%AC%AC16%E6%9C%9F20250327/%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%40ikan_live_PandaClass_%E5%AD%97%E5%B9%95%E7%89%88_20250327_13.m3u8
 
-----PandaClass第四季----,#genre#
+以下----PandaClass第四季----,#genre#
+网址,https://5721004.xyz/pc4/
 
 第01期20250415,#genre#
 电报频道@ikan_live_PandaClass_字幕版_20250415_01,https://5721004.xyz/pc4/%E7%AC%AC01%E6%9C%9F20250415/%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%40ikan_live_PandaClass_%E5%AD%97%E5%B9%95%E7%89%88_20250415_01.m3u8
