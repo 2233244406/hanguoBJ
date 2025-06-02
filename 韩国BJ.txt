@@ -1,27 +1,11 @@
---1韩国BJ,#genre#
-代理访问,https://5721004.xyz/
-
---2韩国BJ|韩国女主播,#genre#
-代理访问5721004.xyz,.m3u8
-
---3韩国BJ,#genre#
-代理访问,m3u8
-
---4韩国BJ,#genre#
-代理访问,m3u8
-
---5韩国BJ,#genre#
-代理访问,https://5721004.xyz/1.m3u8
-
---6韩国BJ|韩国女主播,#genre#
-代理访问5721004.xyz,https://5721004.xyz/
-发布页：jinricp.azurewebsites.net
-备用域名1：kbj.f5.si
-备用域名2：jinri.bot.nu
-备用域名3：jinri.fr.to
+韩国BJ|韩国女主播,#genre#
+代理访问：5721004.xyz,https://5721004.xyz/
+发布页：jinricp.azurewebsites.net,https://jinricp.azurewebsites.net/
+备用域名1：jinri.bot.nu,https://jinri.bot.nu/
+备用域名2：jinri.fr.to,https://jinri.fr.to/
 
 ----JinriCP第一季----,#genre#
-第一季
+https://jinri.fr.to/
 
 其他,#genre#
 韩宝贝BJ베이비Double101_1663,https://5721004.xyz/bu/%E5%85%B6%E4%BB%96/%E9%9F%A9%E5%AE%9D%E8%B4%9DBJ%EB%B2%A0%EC%9D%B4%EB%B9%84Double101_1663.m3u8
