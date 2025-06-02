@@ -5,7 +5,9 @@
 备用域名2：jinri.fr.to,https://jinri.fr.to/
 
 ----JinriCP第一季----,#genre#
-https://jinri.fr.to/
+,https://jinri.fr.to/
+ ,https://jinri.fr.to/
+第一季，https://jinri.fr.to/
 
 其他,#genre#
 韩宝贝BJ베이비Double101_1663,https://5721004.xyz/bu/%E5%85%B6%E4%BB%96/%E9%9F%A9%E5%AE%9D%E8%B4%9DBJ%EB%B2%A0%EC%9D%B4%EB%B9%84Double101_1663.m3u8
