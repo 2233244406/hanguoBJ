@@ -593,8 +593,8 @@
 
 ],
 
-"lives":[{"name":"韩国BJ","type":1,"url":"./韩国BJ.txt"},
-{"name":"Japan 1","type":1,"url":"https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 1.m3u"},
+"lives":[{"name":"韩国BJ","type":1,"url":"./25.6.14-lives.txt"},
+{"name":"韩国BJ","type":1,"url":"./韩国BJ.txt"},
 {"name":"Japan 2","type":1,"url":"https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx Japan 2.m3u"},
 {"name":"小武哥","type":0,"url":"https://qu.ax/PEHy.txt"},
 {"name":"AV","type":0,"url":"./livex.m3u"},
