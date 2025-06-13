@@ -308,10 +308,10 @@
       "filterable": 0
     },
 {
-      "key": "名称",
-      "name": "名称",
+      "key": "18X jKun",
+      "name": "18X jKun",
       "type": 1,
-      "api": "网址",
+      "api": "https://jkunzyapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
