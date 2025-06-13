@@ -4,20 +4,11 @@
       "key": "91md",
       "name": "🏆91md",
       "type": 1,
-      "api": "https://gayapi.com/api.php/provide/vod/",
+      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
-{
-      "key": "GAY资源",
-      "name": "GAY资源",
-      "type": 0,
-      "api": "https://gayapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-  },
 {
       "key": "GAY资源",
       "name": "GAY资源",
@@ -27,14 +18,576 @@
       "quickSearch": 1,
       "filterable": 0
   },
+{
+      "key": "桃花资源",
+      "name": "桃花资源",
+      "type": 1,
+      "api": "https://thzy1.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "湿乐园",
+      "name": "湿乐园",
+      "type": 1,
+      "api": "https://xxavs.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "优异资源",
+      "name": "优异资源",
+      "type": 1,
+      "api": "https://a.uezy.pw/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "精品葡萄",
+      "name": "精品葡萄",
+      "type": 1,
+      "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "丝袜资源",
+      "name": "丝袜资源",
+      "type": 1,
+      "api": "https://www.siwazyw.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "色猫资源",
+      "name": "色猫资源",
+      "type": 1,
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "滴滴资源",
+      "name": "滴滴资源",
+      "type": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "森林资源",
+      "name": "森林资源",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "玉兔资源",
+      "name": "玉兔资源",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "草榴资源",
+      "name": "草榴资源",
+      "type": 1,
+      "api": "https://www.caoliuzyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "色南国资源",
+      "name": "色南国资源",
+      "type": 1,
+      "api": "https://api.sexnguon.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "美少女资源",
+      "name": "美少女资源",
+      "type": 1,
+      "api": "https://www.msnii.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 
 {
-      "key": "api.apilyzy.com",
-      "name": "🔞成人62",
+      "key": "淫水机资源",
+      "name": "淫水机资源",
       "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 0
+      "api": "https://www.xrbsp.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
+{
+      "key": "香奶儿资源",
+      "name": "香奶儿资源",
+      "type": 1,
+      "api": "https://www.gdlsp.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "白嫖资源",
+      "name": "白嫖资源",
+      "type": 1,
+      "api": "https://www.kxgav.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "黄AV资源",
+      "name": "黄AV资源",
+      "type": 1,
+      "api": "https://www.pgxdy.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "大地资源",
+      "name": "大地资源",
+      "type": 1,
+      "api": "https://dadiapi.com/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "乐播资源",
+      "name": "乐播资源",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "番号资源",
+      "name": "番号资源",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "91视频",
+      "name": "91视频",
+      "type": 1,
+      "api": "https://91av.cyou/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "环亚资源",
+      "name": "环亚资源",
+      "type": 1,
+      "api": "http://hysscj.com/inc/sapi.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "百万资源",
+      "name": "百万资源",
+      "type": 1,
+      "api": "https://api.bwzym3u8.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "奶香香资源",
+      "name": "奶香香资源",
+      "type": 1,
+      "api": "https://naixxzy1.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "奥斯卡资源",
+      "name": "奥斯卡资源",
+      "type": 1,
+      "api": "https://aosikazy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "X细胞资源",
+      "name": "X细胞资源",
+      "type": 1,
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "搜AV资源",
+      "name": "搜AV资源",
+      "type": 1,
+      "api": "https://api.souavzy.vip/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "杏吧资源",
+      "name": "杏吧资源",
+      "type": 1,
+      "api": "https://xingba111.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "番茄资源",
+      "name": "番茄资源",
+      "type": 1,
+      "api": "https://fqzy4.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "黄色仓库",
+      "name": "黄色仓库",
+      "type": 1,
+      "api": "https://hsckzy.vip/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "558资源",
+      "name": "558资源",
+      "type": 1,
+      "api": "http://558zy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "VOV伦理",
+      "name": "VOV伦理",
+      "type": 1,
+      "api": "https://vovzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "百花资源",
+      "name": "百花资源",
+      "type": 1,
+      "api": "https://176.113.70.199/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "名称",
+      "name": "名称",
+      "type": 1,
+      "api": "网址",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+
+	  
 {"key":"*KK写真资源","name":"*🔞KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0}  
 
 
